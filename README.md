@@ -72,7 +72,7 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-01)
 
-[Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-html-css-activity-6872239398147129344-KruK)
 
 #### O que eu aprendi
 
