@@ -1,2 +1,85 @@
-# 30diasDeCSS-Challenge
-Praticar HTML5 e CSS3 diariamente a partir de um repositório de desafios que foram criados aqui no Github com o nome #30diasDeCSS
+<div>
+
+<h1 align="center">Welcome 👋 - #30diasDeCSS </h1>
+
+</div>
+
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#regra">Regras Gerais</a> •
+ <a href="#projeto">Projeto Desafio</a> •
+ <a href="#referencia">Referências</a> •
+ <a href="#desafio">Desafios</a>
+</p>
+
+<h3 id="sobre"><strong>📝 Sobre</strong></h3>
+
+<hr>
+<p>30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3</p>
+
+<br>
+
+<h3 id="objetivo"><strong>📝 Objetivo</strong></h3>
+
+<hr>
+30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 20 de Julho de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos.
+
+<br>
+
+<h3 id="regra"><strong>📝 Regras Gerais</strong></h3>
+
+<hr>
+
+- Realizar um projeto por dia
+- Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+- O projeto deve ser concluído até 23:59
+
+<br>
+
+<h3 id="projeto"><strong>📝 Projeto Desafio</strong></h3>
+
+<hr>
+
+Gostou da ideia?
+[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS) para conhecer esse projeto de desafios criado pela [@milenacarecho](https://github.com/MilenaCarecho)
+
+<br>
+
+<h3 id="referencia"><strong>📝 Referências</strong></h3>
+
+<hr>
+
+### Youtube Referências dos desafios
+
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) -
+[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+
+<br>
+
+<h3 id="desafio"><strong>📝 Desafios</strong></h3>
+
+<hr>
+
+- [Dia 01 - Ícone de mídia social em camadas](#id01)
+
+<br>
+
+### Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+
+![Dia 01](./readme-assets/challenge-day01.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-01)
+
+[Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau)
+
+#### O que eu aprendi
+
+- _Criar as camadas utilizando a tag `<span>`_
+- _Uso de um Bootstrap [aqui](https://www.bootstrapcdn.com/fontawesome/)_
+- _tranformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+- _[Transições CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)_
+- _[Opacidade / transparência do CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/opacity)_
+- _[hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)_
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
