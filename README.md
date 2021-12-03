@@ -92,15 +92,16 @@ Gostou da ideia?
 
 ### Desafio dia 02 - Loader animado <a name="id02"></a>
 
-![Dia 02](#)
+![Dia 02](./readme-assets/challenge-day02.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-02)
 
-[Post LinkedIn](#)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6872549412548161536-ZaPD)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1466790064277659655?s=20)
 
 #### O que eu aprendi
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _Aplicação do [:before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)_
 - _Movimentação de objetos através do TOP e LEFT em conjunto com o position_
-
