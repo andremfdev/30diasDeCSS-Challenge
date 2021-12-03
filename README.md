@@ -20,24 +20,24 @@
 
 <br>
 
-<h3 id="objetivo"><strong>📝 Objetivo</strong></h3>
+<h3 id="objetivo"><strong>🚀 Objetivo</strong></h3>
 
 <hr>
 30 dias de CSS3 é um desafio que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de pequenos projetos. A ideia é todo dia aplicar o conhecimento no qual venho adqirindo através de cursos voltados para o desenvolvimento Front-end. Ao fim desses 30 dias desejo aprender novas aplicações e abordagens diversas no HTML5 e CSS3.
 
 <br>
 
-<h3 id="regra"><strong>📝 Regras Gerais</strong></h3>
+<h3 id="regra"><strong>⚠ Regras Gerais</strong></h3>
 
 <hr>
 
 - Realizar um projeto por dia
-- Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
-- O projeto deve ser concluído até 23:59
+- Compartilhar o progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+- O projeto deve ser concluído até 23:59h
 
 <br>
 
-<h3 id="projeto"><strong>📝 Projeto Desafio</strong></h3>
+<h3 id="projeto"><strong>🗂 Projeto Desafio</strong></h3>
 
 <hr>
 
@@ -46,7 +46,7 @@ Gostou da ideia?
 
 <br>
 
-<h3 id="referencia"><strong>📝 Referências</strong></h3>
+<h3 id="referencia"><strong>📹 Referências</strong></h3>
 
 <hr>
 
@@ -58,7 +58,7 @@ Gostou da ideia?
 
 <br>
 
-<h3 id="desafio"><strong>📝 Desafios</strong></h3>
+<h3 id="desafio"><strong>🎯 Desafios</strong></h3>
 
 <hr>
 
