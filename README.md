@@ -63,6 +63,7 @@ Gostou da ideia?
 <hr>
 
 - [Dia 01 - Ícone de mídia social em camadas](#id01)
+- [Dia 02 - Loader animado](#id02)
 
 <br>
 
@@ -74,12 +75,32 @@ Gostou da ideia?
 
 [Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-html-css-activity-6872239398147129344-KruK)
 
+[Post Twitter](https://twitter.com/andremksdev/status/1466475017739419662?s=20)
+
 #### O que eu aprendi
 
 - _Criar as camadas utilizando a tag `<span>`_
 - _Uso de um Bootstrap [aqui](https://www.bootstrapcdn.com/fontawesome/)_
-- _tranformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+- _Tranformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
 - _[Transições CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)_
 - _[Opacidade / transparência do CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/opacity)_
 - _[hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)_
 - _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+
+<br>
+<hr>
+
+### Desafio dia 02 - Loader animado <a name="id02"></a>
+
+![Dia 02](#)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-02)
+
+[Post LinkedIn](#)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _Aplicação do [:before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)_
+- _Movimentação de objetos através do TOP e LEFT em conjunto com o position_
+
