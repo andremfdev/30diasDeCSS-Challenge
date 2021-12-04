@@ -64,7 +64,7 @@ Gostou da ideia?
 
 - [Dia 01 - Ícone de mídia social em camadas](#id01)
 - [Dia 02 - Loader animado](#id02)
-- [Dia 02 - Mudar a cor do texto](#id03)
+- [Dia 03 - Mudar a cor do texto](#id03)
 
 <br>
 
