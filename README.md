@@ -112,16 +112,15 @@ Gostou da ideia?
 
 ### Desafio dia 03 - Mudar a cor do texto <a name="id03"></a>
 
-![Dia 02](#)
+![Dia 03](./readme-assets/challenge-day03.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-03)
 
-[Post LinkedIn](#)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6872973929447731200-OxWw)
 
-[Post Twitter](#)
+[Post Twitter](https://twitter.com/andremksdev/status/1467209035267125266?s=20)
 
 #### O que eu aprendi
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _Uso do [white-space](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)_
-
