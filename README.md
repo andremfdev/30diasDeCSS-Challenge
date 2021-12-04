@@ -64,6 +64,7 @@ Gostou da ideia?
 
 - [Dia 01 - Ícone de mídia social em camadas](#id01)
 - [Dia 02 - Loader animado](#id02)
+- [Dia 02 - Mudar a cor do texto](#id03)
 
 <br>
 
@@ -105,3 +106,22 @@ Gostou da ideia?
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _Aplicação do [:before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)_
 - _Movimentação de objetos através do TOP e LEFT em conjunto com o position_
+
+<br>
+<hr>
+
+### Desafio dia 03 - Mudar a cor do texto <a name="id03"></a>
+
+![Dia 02](#)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-03)
+
+[Post LinkedIn](#)
+
+[Post Twitter](#)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _Uso do [white-space](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)_
+
