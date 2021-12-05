@@ -130,11 +130,11 @@ Gostou da ideia?
 
 ### Desafio dia 04 - Efeito em botão <a name="id04"></a>
 
-![Dia 03](./readme-assets/challenge-day04.gif)
+![Dia 04](./readme-assets/challenge-day04.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-04)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6872973929447731200-OxWw)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6873269464280915968-Z4ms)
 
 [Post Twitter](https://twitter.com/andremksdev/status/1467209035267125266?s=20)
 
