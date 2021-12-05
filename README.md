@@ -124,3 +124,24 @@ Gostou da ideia?
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _Uso do [white-space](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)_
+
+<br>
+<hr>
+
+### Desafio dia 04 - Efeito em botão <a name="id04"></a>
+
+![Dia 03](./readme-assets/challenge-day04.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-04)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6872973929447731200-OxWw)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1467209035267125266?s=20)
+
+#### O que eu aprendi
+
+- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+- _[Transições](https://www.w3schools.com/css/css3_transitions.asp)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
