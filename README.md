@@ -136,7 +136,7 @@ Gostou da ideia?
 
 [Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6873269464280915968-Z4ms)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1467209035267125266?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1467504688039972864?s=20)
 
 #### O que eu aprendi
 
