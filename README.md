@@ -66,6 +66,7 @@ Gostou da ideia?
 - [Dia 02 - Loader animado](#id02)
 - [Dia 03 - Mudar a cor do texto](#id03)
 - [Dia 04 - Efeito em botão](#id04)
+- [Dia 05 - Efeito em botão](#id05)
 
 <br>
 
