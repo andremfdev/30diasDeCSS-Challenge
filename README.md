@@ -146,3 +146,21 @@ Gostou da ideia?
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
 - _[Transições](https://www.w3schools.com/css/css3_transitions.asp)_
 - _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 05 - Efeito pulsar <a name="id05"></a>
+
+![Dia 05](./readme-assets/challenge-day05.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-05)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6873269464280915968-Z4ms)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1467504688039972864?s=20)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
