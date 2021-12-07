@@ -6,7 +6,7 @@ body {
   justify-content: center;
   height: 100vh;
   background: #000;
-  font-family: "Sora", sans-serif;
+  font-family: 'Sora', sans-serif;
 }
 
 h1 {
@@ -24,7 +24,7 @@ h1 span {
 }
 
 @keyframes animate {
-  0% {
+  5% {
     color: #111;
     text-shadow: none;
   }

@@ -66,7 +66,8 @@ Gostou da ideia?
 - [Dia 02 - Loader animado](#id02)
 - [Dia 03 - Mudar a cor do texto](#id03)
 - [Dia 04 - Efeito em botão](#id04)
-- [Dia 05 - Efeito em botão](#id05)
+- [Dia 05 - Efeito pulsar](#id05)
+- [Dia 06 - Efeito Lightning Text](#id06)
 
 <br>
 
@@ -169,18 +170,17 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 06 - Efeito lightning text <a name="id06"></a>
+### Desafio dia 06 - Efeito Lightning Text <a name="id06"></a>
 
 ![Dia 06](./readme-assets/challenge-day06.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-06)
 
-[Post LinkedIn](#)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6873977966834012160-pfpn)
 
-[Post Twitter](#)
+[Post Twitter](https://twitter.com/andremksdev/status/1468212426277588998?s=20)
 
 #### O que eu aprendi
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
-
