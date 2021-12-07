@@ -165,3 +165,22 @@ Gostou da ideia?
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 06 - Efeito lightning text <a name="id06"></a>
+
+![Dia 06](./readme-assets/challenge-day06.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-06)
+
+[Post LinkedIn](#)
+
+[Post Twitter](#)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+
