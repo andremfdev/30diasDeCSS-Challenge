@@ -184,3 +184,21 @@ Gostou da ideia?
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+
+<br>
+<hr>
+
+### Desafio dia 07 - Loader com animação <a name="id07"></a>
+
+![Dia 07](./readme-assets/challenge-day07.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-07)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6873977966834012160-pfpn)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1468212426277588998?s=20)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
