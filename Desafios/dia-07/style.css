@@ -18,32 +18,31 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background: #f00;
   animation: rotate 1s linear infinite;
 }
 
 .loader span:nth-child(1) {
   top: 0;
   left: 0;
-  background: #f79f1f;
+  background: #f200ff;
 }
 
 .loader span:nth-child(2) {
   top: 0;
   right: 0;
-  background: #12cbc4;
+  background: #05fff7;
 }
 
 .loader span:nth-child(3) {
   bottom: 0;
   left: 0;
-  background: #ed4c67;
+  background: #e1f285;
 }
 
 .loader span:nth-child(4) {
   bottom: 0;
   right: 0;
-  background: #a3cb38;
+  background: #bbaf01;
 }
 
 @keyframes animate {

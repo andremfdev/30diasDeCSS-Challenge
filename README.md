@@ -68,6 +68,7 @@ Gostou da ideia?
 - [Dia 04 - Efeito em botão](#id04)
 - [Dia 05 - Efeito pulsar](#id05)
 - [Dia 06 - Efeito Lightning Text](#id06)
+- [Dia 06 - Loader com animação](#id07)
 
 <br>
 
@@ -194,9 +195,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-07)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6873977966834012160-pfpn)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-challengecss-30diasdecss-activity-6874310372262739968-4jP5)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1468212426277588998?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1468545127266369544?s=20)
 
 #### O que eu aprendi
 
