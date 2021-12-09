@@ -68,7 +68,8 @@ Gostou da ideia?
 - [Dia 04 - Efeito em botão](#id04)
 - [Dia 05 - Efeito pulsar](#id05)
 - [Dia 06 - Efeito Lightning Text](#id06)
-- [Dia 06 - Loader com animação](#id07)
+- [Dia 07 - Loader com animação](#id07)
+- [Dia 08 - Coração com animação](#id08)
 
 <br>
 
@@ -203,3 +204,22 @@ Gostou da ideia?
 
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 - _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+
+<br>
+<hr>
+
+### Desafio dia 08 - Coração com animação <a name="id08"></a>
+
+![Dia 08](./readme-assets/challenge-day08.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-08)
+
+[Post LinkedIn](#)
+
+[Post Twitter](#)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
