@@ -214,9 +214,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-08)
 
-[Post LinkedIn](#)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-css-challengecss-activity-6874757624542318592--2xu)
 
-[Post Twitter](#)
+[Post Twitter](https://twitter.com/andremksdev/status/1468992339582623753?s=20)
 
 #### O que eu aprendi
 
