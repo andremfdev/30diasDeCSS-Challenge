@@ -70,6 +70,7 @@ Gostou da ideia?
 - [Dia 06 - Efeito Lightning Text](#id06)
 - [Dia 07 - Loader com animação](#id07)
 - [Dia 08 - Coração com animação](#id08)
+- [Dia 09 - Pêndulo de Newton](#id09)
 
 <br>
 
@@ -233,9 +234,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-09)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-css-challengecss-activity-6874757624542318592--2xu)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-css-30diasdecss-activity-6875073591608795137-_o_v)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1468992339582623753?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1469308633284493318?s=20)
 
 #### O que eu aprendi
 
