@@ -255,9 +255,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-10)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-css-30diasdecss-activity-6875073591608795137-_o_v)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-30diasdecss-frontend-activity-6875458593454333952-g-UA)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1469308633284493318?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1469693251846385669?s=20)
 
 #### O que eu aprendi
 
