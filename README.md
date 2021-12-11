@@ -245,3 +245,23 @@ Gostou da ideia?
 - _[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)_
 - _[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)_
 - _[animations](https://www.w3schools.com/css/css3_animations.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 10 - Coração com animação <a name="id10"></a>
+
+![Dia 10](./readme-assets/challenge-day10.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-10)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-css-30diasdecss-activity-6875073591608795137-_o_v)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1469308633284493318?s=20)
+
+#### O que eu aprendi
+
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+- _[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)_
+- _[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
