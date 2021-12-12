@@ -277,9 +277,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-11)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-30diasdecss-frontend-activity-6875458593454333952-g-UA)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6875843678729068544-SFne)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1469693251846385669?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1470078313888632840?s=20)
 
 #### O que eu aprendi
 
@@ -304,4 +304,3 @@ Gostou da ideia?
 - _[data-attributes](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
-
