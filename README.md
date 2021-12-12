@@ -71,6 +71,8 @@ Gostou da ideia?
 - [Dia 07 - Loader com animação](#id07)
 - [Dia 08 - Coração com animação](#id08)
 - [Dia 09 - Pêndulo de Newton](#id09)
+- [Dia 10 - Texto de digitação animado](#id10)
+- [Dia 11 - Botão com efeito hover](#id11)
 
 <br>
 
@@ -228,7 +230,7 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 09 - Coração com animação <a name="id09"></a>
+### Desafio dia 09 - Pêndulo de Newton <a name="id09"></a>
 
 ![Dia 09](./readme-assets/challenge-day09.gif)
 
@@ -249,7 +251,7 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 10 - Coração com animação <a name="id10"></a>
+### Desafio dia 10 - Texto de digitação animado <a name="id10"></a>
 
 ![Dia 10](./readme-assets/challenge-day10.gif)
 
@@ -265,3 +267,21 @@ Gostou da ideia?
 - _[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)_
 - _[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 11 - Botão com efeito Hover <a name="id11"></a>
+
+![Dia 11](./readme-assets/challenge-day11.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-11)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-30diasdecss-frontend-activity-6875458593454333952-g-UA)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1469693251846385669?s=20)
+
+#### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
