@@ -73,6 +73,7 @@ Gostou da ideia?
 - [Dia 09 - Pêndulo de Newton](#id09)
 - [Dia 10 - Texto de digitação animado](#id10)
 - [Dia 11 - Botão com efeito hover](#id11)
+- [Dia 12 - Texto com efeito mouseover](#id12)
 
 <br>
 
@@ -289,15 +290,15 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 12 - Botão com efeito Hover <a name="id12"></a>
+### Desafio dia 12 - Texto com efeito mouseover <a name="id12"></a>
 
 ![Dia 12](./readme-assets/challenge-day12.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-12)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-30diasdecss-frontend-activity-6875458593454333952-g-UA)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6876162964144046080-hjv8)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1469693251846385669?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1470414812286967809?s=20)
 
 #### O que eu aprendi
 
