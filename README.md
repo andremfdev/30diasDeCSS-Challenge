@@ -68,12 +68,13 @@ Gostou da ideia?
 - [Dia 04 - Efeito em botão](#id04)
 - [Dia 05 - Efeito pulsar](#id05)
 - [Dia 06 - Efeito Lightning Text](#id06)
-- [Dia 07 - Loader com animação](#id07)
+- [Dia 07 - Pre Loader com animação](#id07)
 - [Dia 08 - Coração com animação](#id08)
 - [Dia 09 - Pêndulo de Newton](#id09)
 - [Dia 10 - Texto de digitação animado](#id10)
 - [Dia 11 - Botão com efeito hover](#id11)
 - [Dia 12 - Texto com efeito mouseover](#id12)
+- [Dia 13 - Loading com efeito](#id13)
 
 <br>
 
@@ -305,3 +306,22 @@ Gostou da ideia?
 - _[data-attributes](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 13 - Loading com efeito <a name="id13"></a>
+
+![Dia 12](./readme-assets/challenge-day13.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-13)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6876162964144046080-hjv8)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1470414812286967809?s=20)
+
+#### O que eu aprendi
+
+- _[data-attributes](https://www.w3schools.com/cssref/sel_hover.asp)_
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
