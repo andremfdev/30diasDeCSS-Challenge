@@ -75,6 +75,7 @@ Gostou da ideia?
 - [Dia 11 - Botão com efeito hover](#id11)
 - [Dia 12 - Texto com efeito mouseover](#id12)
 - [Dia 13 - Loading com efeito](#id13)
+- [Dia 14 - Texto animado com efeito no Background](#id14)
 
 <br>
 
@@ -312,7 +313,7 @@ Gostou da ideia?
 
 ### Desafio dia 13 - Loading com efeito <a name="id13"></a>
 
-![Dia 12](./readme-assets/challenge-day13.gif)
+![Dia 13](./readme-assets/challenge-day13.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-13)
 
@@ -324,4 +325,24 @@ Gostou da ideia?
 
 - _[data-attributes](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 14 - Texto animado com efeito no Background <a name="id14"></a>
+
+![Dia 14](./readme-assets/challenge-day14.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-14)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6876520295205883904-mcwV)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1470755532566929410?s=20)
+
+#### O que eu aprendi
+
+- _[-webkit-background-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)_
+- _[-webkit-text-fill-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)_
+- _[-webkit-text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
