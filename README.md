@@ -336,9 +336,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-14)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6876520295205883904-mcwV)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6876878857144803328-yXuk)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1470755532566929410?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1471114867004350469?s=20)
 
 #### O que eu aprendi
 
