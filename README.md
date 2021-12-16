@@ -76,6 +76,7 @@ Gostou da ideia?
 - [Dia 12 - Texto com efeito mouseover](#id12)
 - [Dia 13 - Loading com efeito](#id13)
 - [Dia 14 - Texto animado com efeito no Background](#id14)
+- [Dia 15 - Texto com efeito flutuante](#id15)
 
 <br>
 
@@ -345,4 +346,22 @@ Gostou da ideia?
 - _[-webkit-background-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)_
 - _[-webkit-text-fill-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)_
 - _[-webkit-text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 15 - Texto com efeito flutuando <a name="id15"></a>
+
+![Dia 15](./readme-assets/challenge-day15.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-15)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6876878857144803328-yXuk)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1471114867004350469?s=20)
+
+#### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
