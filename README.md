@@ -384,3 +384,22 @@ Gostou da ideia?
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 16 - Texto com efeito flutuando <a name="id16"></a>
+
+![Dia 16](./readme-assets/challenge-day16.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-16)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6877667331829440512-XteO)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1471902029685608449?s=20)
+
+#### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
