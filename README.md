@@ -77,6 +77,8 @@ Gostou da ideia?
 - [Dia 13 - Loading com efeito](#id13)
 - [Dia 14 - Texto animado com efeito no Background](#id14)
 - [Dia 15 - Texto com efeito flutuante](#id15)
+- [Dia 16 - Botão com efeito](#id16)
+- [Dia 17 - Loaer animado](#id17)
 
 <br>
 
@@ -369,7 +371,7 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 16 - Texto com efeito flutuando <a name="id16"></a>
+### Desafio dia 16 - Botão com efeito <a name="id16"></a>
 
 ![Dia 16](./readme-assets/challenge-day16.gif)
 
@@ -388,11 +390,11 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 16 - Texto com efeito flutuando <a name="id16"></a>
+### Desafio dia 17 - Loader animado <a name="id17"></a>
 
-![Dia 16](./readme-assets/challenge-day16.gif)
+![Dia 17](./readme-assets/challenge-day17.gif)
 
-[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-16)
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-17)
 
 [Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6877667331829440512-XteO)
 
@@ -401,5 +403,4 @@ Gostou da ideia?
 #### O que eu aprendi
 
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
-- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
