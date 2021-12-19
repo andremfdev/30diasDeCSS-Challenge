@@ -79,6 +79,7 @@ Gostou da ideia?
 - [Dia 15 - Texto com efeito flutuante](#id15)
 - [Dia 16 - Botão com efeito](#id16)
 - [Dia 17 - Loaer animado](#id17)
+- [Dia 18 - Texto com efeito fumaça](#id18)
 
 <br>
 
@@ -410,13 +411,13 @@ Gostou da ideia?
 
 ### Desafio dia 18 - Texto com efeito fumaça <a name="id18"></a>
 
-![Dia 17](./readme-assets/challenge-day18.gif)
+![Dia 18](./readme-assets/challenge-day18.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-18)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6877963257135546368-jYE_)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878321407873294336-XhYO)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1472198280482377732?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1472556005796024329?s=20)
 
 #### O que eu aprendi
 
