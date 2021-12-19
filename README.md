@@ -404,3 +404,22 @@ Gostou da ideia?
 
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 18 - Texto com efeito fumaça <a name="id18"></a>
+
+![Dia 17](./readme-assets/challenge-day18.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-18)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6877963257135546368-jYE_)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1472198280482377732?s=20)
+
+#### O que eu aprendi
+
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
