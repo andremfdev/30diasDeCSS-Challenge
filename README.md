@@ -80,6 +80,7 @@ Gostou da ideia?
 - [Dia 16 - Botão com efeito](#id16)
 - [Dia 17 - Loaer animado](#id17)
 - [Dia 18 - Texto com efeito fumaça](#id18)
+- [Dia 19 - Efeito fundo partículas](#id19)
 
 <br>
 
@@ -412,6 +413,25 @@ Gostou da ideia?
 ### Desafio dia 18 - Texto com efeito fumaça <a name="id18"></a>
 
 ![Dia 18](./readme-assets/challenge-day18.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-18)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878321407873294336-XhYO)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1472556005796024329?s=20)
+
+#### O que eu aprendi
+
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 19 - Efeito fundo partículas <a name="id19"></a>
+
+![Dia 19](./readme-assets/challenge-day19.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-18)
 
