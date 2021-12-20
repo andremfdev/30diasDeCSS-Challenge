@@ -435,12 +435,11 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-18)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878321407873294336-XhYO)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878763450399498241-e9Ec)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1472556005796024329?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1472999035871105025?s=20)
 
 #### O que eu aprendi
 
 - _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
-- _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
