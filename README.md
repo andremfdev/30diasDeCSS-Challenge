@@ -81,6 +81,7 @@ Gostou da ideia?
 - [Dia 17 - Loaer animado](#id17)
 - [Dia 18 - Texto com efeito fumaça](#id18)
 - [Dia 19 - Efeito fundo partículas](#id19)
+- [Dia 20 - Botão com Efeito Gradiente](#id20)
 
 <br>
 
@@ -433,7 +434,25 @@ Gostou da ideia?
 
 ![Dia 19](./readme-assets/challenge-day19.gif)
 
-[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-18)
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-19)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878763450399498241-e9Ec)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1472999035871105025?s=20)
+
+#### O que eu aprendi
+
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 20 - Botão com efeito gradiente <a name="id20"></a>
+
+![Dia 20](./readme-assets/challenge-day20.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-20)
 
 [Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878763450399498241-e9Ec)
 
