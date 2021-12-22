@@ -82,6 +82,7 @@ Gostou da ideia?
 - [Dia 18 - Texto com efeito fumaça](#id18)
 - [Dia 19 - Efeito fundo partículas](#id19)
 - [Dia 20 - Botão com Efeito Gradiente](#id20)
+- [Dia 21 - Efeito com bolinhas](#id21)
 
 <br>
 
@@ -463,3 +464,18 @@ Gostou da ideia?
 - _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+### Desafio dia 21 - Efeito com bolinhas <a name="id21"></a>
+
+![Dia 21](./readme-assets/challenge-day21.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-21)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6878763450399498241-e9Ec)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1472999035871105025?s=20)
+
+#### O que eu aprendi
+
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
