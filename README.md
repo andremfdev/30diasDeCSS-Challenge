@@ -465,11 +465,32 @@ Gostou da ideia?
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
 
+<br>
+<hr>
+
 ### Desafio dia 21 - Efeito com bolinhas <a name="id21"></a>
 
 ![Dia 21](./readme-assets/challenge-day21.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-21)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6879441079330971648-ruoR)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1473675643330121730?s=20)
+
+#### O que eu aprendi
+
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _[Transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 22 - Efeito com bolinhas <a name="id22"></a>
+
+![Dia 22](./readme-assets/challenge-day22.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-22)
 
 [Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6879441079330971648-ruoR)
 
