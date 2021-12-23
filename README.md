@@ -83,6 +83,7 @@ Gostou da ideia?
 - [Dia 19 - Efeito fundo partículas](#id19)
 - [Dia 20 - Botão com Efeito Gradiente](#id20)
 - [Dia 21 - Efeito com bolinhas](#id21)
+- [Dia 22 - Icons effects](#id22)
 
 <br>
 
@@ -486,7 +487,7 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 22 - Efeito com bolinhas <a name="id22"></a>
+### Desafio dia 22 - Ícones com efeitos <a name="id22"></a>
 
 ![Dia 22](./readme-assets/challenge-day22.gif)
 
