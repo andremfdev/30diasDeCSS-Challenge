@@ -83,7 +83,8 @@ Gostou da ideia?
 - [Dia 19 - Efeito fundo partículas](#id19)
 - [Dia 20 - Botão com Efeito Gradiente](#id20)
 - [Dia 21 - Efeito com bolinhas](#id21)
-- [Dia 22 - Icons effects](#id22)
+- [Dia 22 - Icone com efeito](#id22)
+- [Dia 23 - Botão com efeito neon](#id23)
 
 <br>
 
@@ -502,3 +503,22 @@ Gostou da ideia?
 - _[:hover](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+
+<br>
+<hr>
+
+### Desafio dia 23 - Botão com efeito neon <a name="id23"></a>
+
+![Dia 23](./readme-assets/challenge-day23.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-23)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6879817761074249728-fepS)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1474052154914713613?s=20)
+
+#### O que eu aprendi
+
+- _[-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)_
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
