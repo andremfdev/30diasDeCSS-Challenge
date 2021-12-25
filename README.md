@@ -85,6 +85,7 @@ Gostou da ideia?
 - [Dia 21 - Efeito com bolinhas](#id21)
 - [Dia 22 - Icone com efeito](#id22)
 - [Dia 23 - Botão com efeito neon](#id23)
+- [Dia 24 - Preoloader com animação v2](#id24)
 
 <br>
 
@@ -526,7 +527,7 @@ Gostou da ideia?
 <br>
 <hr>
 
-### Desafio dia 24 - Preloader com animação v.2 <a name="id24"></a>
+### Desafio dia 24 - Preloader com animação v2 <a name="id24"></a>
 
 ![Dia 24](./readme-assets/challenge-day24.gif)
 
