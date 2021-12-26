@@ -557,5 +557,5 @@ Gostou da ideia?
 
 #### O que eu aprendi
 
-- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
