@@ -541,3 +541,21 @@ Gostou da ideia?
 
 - _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 25 - Checkbox animado <a name="id25"></a>
+
+![Dia 25](./readme-assets/challenge-day25.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-25)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6880554522809245696-hJy9)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1474789235068657672?s=20)
+
+#### O que eu aprendi
+
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
