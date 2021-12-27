@@ -87,6 +87,7 @@ Gostou da ideia?
 - [Dia 23 - Botão com efeito neon](#id23)
 - [Dia 24 - Preoloader com animação v2](#id24)
 - [Dia 25 - Checkbox animado](#id25)
+- [Dia 26 - Wave loading animado](#id26)
 
 <br>
 
@@ -559,4 +560,23 @@ Gostou da ideia?
 #### O que eu aprendi
 
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 26 - Wave Loading animado <a name="id26"></a>
+
+![Dia 26](./readme-assets/challenge-day26.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-26)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881242429484228608--clx)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1475477172093689857?s=20)
+
+#### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
