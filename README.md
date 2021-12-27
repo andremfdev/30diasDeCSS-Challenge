@@ -86,6 +86,7 @@ Gostou da ideia?
 - [Dia 22 - Icone com efeito](#id22)
 - [Dia 23 - Botão com efeito neon](#id23)
 - [Dia 24 - Preoloader com animação v2](#id24)
+- [Dia 25 - Checkbox animado](#id25)
 
 <br>
 
