@@ -88,6 +88,7 @@ Gostou da ideia?
 - [Dia 24 - Preoloader com animação v2](#id24)
 - [Dia 25 - Checkbox animado](#id25)
 - [Dia 26 - Wave loading animado](#id26)
+- [Dia 27 - Pulse com efeito animado](#id27)
 
 <br>
 
@@ -590,9 +591,9 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-27)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881242429484228608--clx)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881601157081382912-Ntuc)
 
-[Post Twitter](https://twitter.com/andremksdev/status/1475477172093689857?s=20)
+[Post Twitter](https://twitter.com/andremksdev/status/1475835744702943240?s=20)
 
 #### O que eu aprendi
 
