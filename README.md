@@ -580,3 +580,22 @@ Gostou da ideia?
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 27 - Pulse efeito animado <a name="id27"></a>
+
+![Dia 27](./readme-assets/challenge-day27.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-27)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881242429484228608--clx)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1475477172093689857?s=20)
+
+#### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
