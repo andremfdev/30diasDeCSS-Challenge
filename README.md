@@ -89,6 +89,7 @@ Gostou da ideia?
 - [Dia 25 - Checkbox animado](#id25)
 - [Dia 26 - Wave loading animado](#id26)
 - [Dia 27 - Pulse com efeito animado](#id27)
+- [Dia 28 - Background mudando de cor](#id28)
 
 <br>
 
@@ -599,4 +600,21 @@ Gostou da ideia?
 
 - _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 28 - Background mudando de cor <a name="id28"></a>
+
+![Dia 28](./readme-assets/challenge-day28.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-28)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881601157081382912-Ntuc)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1475835744702943240?s=20)
+
+#### O que eu aprendi
+
 - _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
