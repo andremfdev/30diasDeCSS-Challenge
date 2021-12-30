@@ -1,5 +1,5 @@
 body {
-  font-family: "Sora", sans-serif;
+  font-family: 'Sora', sans-serif;
 }
 * {
   margin: 0;
@@ -35,7 +35,7 @@ nav ul li a {
 }
 nav ul li a:before {
   position: absolute;
-  content: "";
+  content: '';
   left: 0;
   bottom: 0;
   height: 3px;
