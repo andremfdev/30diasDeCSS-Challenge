@@ -635,4 +635,7 @@ Gostou da ideia?
 
 #### O que eu aprendi
 
-- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _[Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)_
+- _[:checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)_
+- _[<Label>](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/label)_
+- _[<Script>](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/script)_
