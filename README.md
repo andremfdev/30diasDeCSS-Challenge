@@ -90,6 +90,7 @@ Gostou da ideia?
 - [Dia 26 - Wave loading animado](#id26)
 - [Dia 27 - Pulse com efeito animado](#id27)
 - [Dia 28 - Background mudando de cor](#id28)
+- [Dia 29 - Navegação Bar responsivo](#id29)
 
 <br>
 
@@ -610,6 +611,23 @@ Gostou da ideia?
 ![Dia 28](./readme-assets/challenge-day28.gif)
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-28)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881959123462705152-M-He)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1476193632625569794?s=20)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+
+<br>
+<hr>
+
+### Desafio dia 29 - Navegação Bar responsivo <a name="id29"></a>
+
+![Dia 29](./readme-assets/challenge-day29.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-29)
 
 [Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6881959123462705152-M-He)
 
