@@ -91,6 +91,7 @@ Gostou da ideia?
 - [Dia 27 - Pulse com efeito animado](#id27)
 - [Dia 28 - Background mudando de cor](#id28)
 - [Dia 29 - Navegação Bar responsivo](#id29)
+- [Dia 30 - Firework](#id30)
 
 <br>
 
@@ -637,5 +638,21 @@ Gostou da ideia?
 
 - _[Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)_
 - _[:checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)_
-- _[<Label>](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/label)_
-- _[<Script>](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/script)_
+- _[Label](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/label)_
+- _[Script](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/script)_
+
+### Desafio dia 30 - Firework <a name="id30"></a>
+
+![Dia 30](./readme-assets/challenge-day30.gif)
+
+[Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-30)
+
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6882344067083063296-z5LY)
+
+[Post Twitter](https://twitter.com/andremksdev/status/1476579065708658691?s=20)
+
+#### O que eu aprendi
+
+- _Animação [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)_
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[nth-child ()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)_
