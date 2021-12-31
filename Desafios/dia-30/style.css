@@ -8,6 +8,14 @@ body {
   background-color: #444;
 }
 
+h2 {
+  position: absolute;
+  top: 10%;
+  font-size: 4em;
+  font-family: 'Sora', sans-serif;
+  color: #fff;
+}
+
 .firework {
   position: absolute;
 }
@@ -61,7 +69,7 @@ body {
 }
 
 .explosion:before {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   right: 0;
@@ -98,7 +106,7 @@ body {
 
 #firework2 .explosion::before {
   animation: explosion 2s 0.6s ease-in-out infinite;
-  background-color: red;
+  background-color: rgb(0, 255, 145);
 }
 
 #firework3 {
