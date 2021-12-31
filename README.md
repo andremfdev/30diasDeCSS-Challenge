@@ -647,7 +647,7 @@ Gostou da ideia?
 
 [Meu código](https://github.com/andremksdev/30diasDeCSS-Challenge/tree/main/Desafios/dia-30)
 
-[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6882344067083063296-z5LY)
+[Post LinkedIn](https://www.linkedin.com/posts/andremksdev_30diasdecss-frontend-html-activity-6882719359010136064-8Aid)
 
 [Post Twitter](https://twitter.com/andremksdev/status/1476579065708658691?s=20)
 
